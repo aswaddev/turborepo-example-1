@@ -14,7 +14,8 @@ export default function Home() {
           height={38}
           priority
         />
-        <ol>
+
+        <ol className="bg-slate-500 !p-5 rounded-lg shadow list-disc">
           <li>
             Get started by editing <code>app/page.tsx</code>
           </li>
